@@ -2,4 +2,4 @@
 
 File PPT
 
-https://github.com/fadilah23/UAS-Interaksi-Manusia-dan-Komputer-Kelompok-7/issues/1#issue-2407633782
+https://github.com/user-attachments/files/16229069/Prototype.Aplikasi.Penjualan.Online.MISE.NOVA.pptx
